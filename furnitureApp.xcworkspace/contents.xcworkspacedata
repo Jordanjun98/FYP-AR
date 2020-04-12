@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/jordan/IOS/furnitureApp/furnitureApp/sendEmail_bridge.h">
+   </FileRef>
+   <FileRef
+      location = "group:furnitureApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
