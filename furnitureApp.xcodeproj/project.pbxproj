@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		171A8ABA244317BE00731A29 /* podfile.png in Resources */ = {isa = PBXBuildFile; fileRef = 171A8AB9244317BE00731A29 /* podfile.png */; };
 		1754AE9823E9B9F500FE9713 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1754AE9723E9B9F500FE9713 /* ThirdViewController.swift */; };
 		1755B0C02401098D00F21F39 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17C8EDDD23FBDFD30087D1A9 /* Accelerate.framework */; };
 		177B70A3235D59D100FBB17C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B70A2235D59D100FBB17C /* AppDelegate.swift */; };
@@ -23,6 +24,12 @@
 		17CBB92023914B4F00B36ED6 /* Models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 17CBB91F23914B4F00B36ED6 /* Models.scnassets */; };
 		17D1207123C22E5500AB35E5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17D1207023C22E5500AB35E5 /* GoogleService-Info.plist */; };
 		17D1207323C2509400AB35E5 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D1207223C2509400AB35E5 /* SecondViewController.swift */; };
+		17F2AA8D24430CF3001C000F /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA8C24430CF3001C000F /* Readme.md */; };
+		17F2AA9424431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA8F24431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg */; };
+		17F2AA9524431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA9024431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg */; };
+		17F2AA9624431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA9124431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg */; };
+		17F2AA9724431647001C000F /* Screenshot 2020-04-12 at 5.25.56 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA9224431646001C000F /* Screenshot 2020-04-12 at 5.25.56 PM.png */; };
+		17F2AA9824431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 17F2AA9324431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg */; };
 		44ED2DEE31844D45018ED393 /* libPods-furnitureApp-furnitureAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A043DD866C9E71E0067DBEBD /* libPods-furnitureApp-furnitureAppTests.a */; };
 		6C0B4449FF140BD71F9F70D4 /* libPods-furnitureAppUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 271DB79BDA683C09A359515E /* libPods-furnitureAppUITests.a */; };
 		6CF47CA218EFD7405E7458EF /* libPods-furnitureApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C7DC863F5949917DFFF68F2C /* libPods-furnitureApp.a */; };
@@ -48,6 +55,7 @@
 /* Begin PBXFileReference section */
 		0B4DE2BFA300FF063126B1AB /* Pods-furnitureApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-furnitureApp.release.xcconfig"; path = "Target Support Files/Pods-furnitureApp/Pods-furnitureApp.release.xcconfig"; sourceTree = "<group>"; };
 		14FB50291BAFADC2999A1182 /* Pods-furnitureAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-furnitureAppTests.release.xcconfig"; path = "Target Support Files/Pods-furnitureAppTests/Pods-furnitureAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		171A8AB9244317BE00731A29 /* podfile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = podfile.png; sourceTree = "<group>"; };
 		172A68B223F93FBA007A15E3 /* sendEmail_bridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = sendEmail_bridge.h; path = /Users/jordan/IOS/furnitureApp/furnitureApp/sendEmail_bridge.h; sourceTree = "<absolute>"; };
 		1754AE9723E9B9F500FE9713 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		177B709F235D59D100FBB17C /* furnitureApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = furnitureApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,6 +87,12 @@
 		17CBB91F23914B4F00B36ED6 /* Models.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Models.scnassets; sourceTree = "<group>"; };
 		17D1207023C22E5500AB35E5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		17D1207223C2509400AB35E5 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		17F2AA8C24430CF3001C000F /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		17F2AA8F24431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg"; sourceTree = "<group>"; };
+		17F2AA9024431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg"; sourceTree = "<group>"; };
+		17F2AA9124431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg"; sourceTree = "<group>"; };
+		17F2AA9224431646001C000F /* Screenshot 2020-04-12 at 5.25.56 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2020-04-12 at 5.25.56 PM.png"; sourceTree = "<group>"; };
+		17F2AA9324431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg"; sourceTree = "<group>"; };
 		271DB79BDA683C09A359515E /* libPods-furnitureAppUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-furnitureAppUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A7E4091C9F12417EE32E979 /* Pods-furnitureApp-furnitureAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-furnitureApp-furnitureAppTests.release.xcconfig"; path = "Target Support Files/Pods-furnitureApp-furnitureAppTests/Pods-furnitureApp-furnitureAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		6F9167FC5E5785D1CDC2C6D0 /* Pods-furnitureApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-furnitureApp.debug.xcconfig"; path = "Target Support Files/Pods-furnitureApp/Pods-furnitureApp.debug.xcconfig"; sourceTree = "<group>"; };
@@ -124,6 +138,8 @@
 		177B7096235D59D100FBB17C = {
 			isa = PBXGroup;
 			children = (
+				17F2AA8E24431646001C000F /* fyp */,
+				17F2AA8C24430CF3001C000F /* Readme.md */,
 				177B70A1235D59D100FBB17C /* furnitureApp */,
 				177B70B8235D59D300FBB17C /* furnitureAppTests */,
 				177B70C3235D59D300FBB17C /* furnitureAppUITests */,
@@ -181,6 +197,20 @@
 				177B70C6235D59D300FBB17C /* Info.plist */,
 			);
 			path = furnitureAppUITests;
+			sourceTree = "<group>";
+		};
+		17F2AA8E24431646001C000F /* fyp */ = {
+			isa = PBXGroup;
+			children = (
+				171A8AB9244317BE00731A29 /* podfile.png */,
+				17F2AA8F24431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg */,
+				17F2AA9024431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg */,
+				17F2AA9124431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg */,
+				17F2AA9224431646001C000F /* Screenshot 2020-04-12 at 5.25.56 PM.png */,
+				17F2AA9324431646001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg */,
+			);
+			name = fyp;
+			path = ../../Dropbox/fyp;
 			sourceTree = "<group>";
 		};
 		8B3E2FAE78077AEF5E446D9A /* Frameworks */ = {
@@ -326,10 +356,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17F2AA9824431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM.jpeg in Resources */,
+				17F2AA9424431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.40 PM.jpeg in Resources */,
 				177B70AF235D59D200FBB17C /* LaunchScreen.storyboard in Resources */,
 				17CBB92023914B4F00B36ED6 /* Models.scnassets in Resources */,
+				17F2AA8D24430CF3001C000F /* Readme.md in Resources */,
+				171A8ABA244317BE00731A29 /* podfile.png in Resources */,
 				17D1207123C22E5500AB35E5 /* GoogleService-Info.plist in Resources */,
 				177B70AC235D59D200FBB17C /* Assets.xcassets in Resources */,
+				17F2AA9724431647001C000F /* Screenshot 2020-04-12 at 5.25.56 PM.png in Resources */,
+				17F2AA9624431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.41 PM.jpeg in Resources */,
+				17F2AA9524431647001C000F /* WhatsApp Image 2020-03-27 at 12.41.39 PM (1).jpeg in Resources */,
 				177B70AA235D59D100FBB17C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
