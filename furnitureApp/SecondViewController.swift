@@ -40,6 +40,7 @@ class SecondViewController: UIViewController,UIImagePickerControllerDelegate, UI
         }
     
     
+
        @IBAction func buttonSubmit(_ sender: UIButton) {
         
         uploadImg()
@@ -61,6 +62,7 @@ class SecondViewController: UIViewController,UIImagePickerControllerDelegate, UI
                 //var thirdViewController = ThirdViewController()
                 var orderID = identifier as String
                 
+            
                 storageRef.downloadURL { (url, error) in
                     if error != nil {
                         print(error!.localizedDescription)
